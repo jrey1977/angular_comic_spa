@@ -1,6 +1,8 @@
-# MyApp
+# Comic SPA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+Una aplicación sencilla de una sola página (SPA) realizada con Angular 10, perteneciente a las prácticas de un curso de Angular. Los datos no están almacenados en una base da datos, están en crudo dentro de un servicio.
+
+Link a la aplicación.  https://comic-spa-9cdec.web.app/home
 
 ## Development server
 
